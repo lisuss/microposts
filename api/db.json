@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "title": "test post 222",
+      "body": "This is the second post i've written",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "test post 3",
+      "body": "This is the third post i've written"
+    },
+    {
+      "title": "asd",
+      "body": "asd",
+      "id": 4
+    },
+    {
+      "title": "asd",
+      "body": "asdadas",
+      "id": 5
+    },
+    {
+      "title": "test post 2",
+      "body": "This is the second post i've written",
+      "id": 6
+    },
+    {
+      "title": "test post 3",
+      "body": "This is the third post i've written",
+      "id": 7
+    },
+    {
+      "title": "asd",
+      "body": "asdasda",
+      "id": 8
+    },
+    {
+      "title": "test post 2d",
+      "body": "This is the second post i've written",
+      "id": 9
+    }
+  ]
+}
